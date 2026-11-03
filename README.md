@@ -1,3 +1,7 @@
+# typescript-starter
+
+Projeto base para começar a programar em TypeScript no VS Code: é só clonar e rodar, com ESLint, Prettier e Code Runner já configurados.
+
 ## Pré-requisitos
 
 [Node.js](https://nodejs.org/) 24, [Git](https://git-scm.com/) e [VS Code](https://code.visualstudio.com/).
