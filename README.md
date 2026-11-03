@@ -7,8 +7,8 @@
 1. Clone e abra no VS Code:
 
    ```bash
-   git clone https://github.com/HumbertoAlcantaraArruda/my-first-ts-project.git
-   code my-first-ts-project
+   git clone https://github.com/HumbertoAlcantaraArruda/typescript-starter.git
+   code typescript-starter
    ```
 
 2. No terminal do VS Code (**Ctrl+'**), instale as extensões e as dependências:
